@@ -1,3 +1,10 @@
 __pycache__
 .env
 .learn
+.venv/
+*.keras
+*.h5
+solution_ref.ipynb
+data/raw/train/
+data/raw/test/
+data/raw/dogs-vs-cats/
