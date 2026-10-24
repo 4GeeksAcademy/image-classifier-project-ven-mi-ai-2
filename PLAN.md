@@ -28,7 +28,7 @@ Build a dogs-vs-cats image classifier (Asirra / Microsoft Petfinder subset) usin
 
 **Improvements:** ImageNet transfer learning, augmentation, EfficientNet `preprocess_input`, Dropout, two-phase fine-tune.
 
-**Measured result:** test accuracy **99.06%**, test loss **0.0294** (full 5k test set).
+**Measured result:** test accuracy **99.06%**, F1 **0.9906** (macro/weighted), test loss **0.0294** (full 5k test set).
 
 ---
 
